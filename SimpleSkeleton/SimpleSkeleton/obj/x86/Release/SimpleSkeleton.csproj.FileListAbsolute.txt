@@ -1,0 +1,9 @@
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\bin\Release\SimpleSkeleton.exe
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\bin\Release\SimpleSkeleton.pdb
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\SimpleSkeleton.SkeletonViewer.resources
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\SimpleSkeleton.Properties.Resources.resources
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\SimpleSkeleton.exe
+C:\Users\feiche\Documents\My Projects\SimpleSkeleton\SimpleSkeleton\obj\x86\Release\SimpleSkeleton.pdb
